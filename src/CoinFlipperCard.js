@@ -65,7 +65,7 @@ function CoinFlipperCard() {
   const [flipCount, setFlipCount] = useState({ heads: 0, tails: 0 });
 
   const flipCoin = () => {
-    const newCoin = Math.floor(Math.random() * 2) ? "H" : "T";
+    const newCoin = Math.random() < 0.5 ? "H" : "T";
     setCoin(newCoin);
     setFlipLog((flipLog) => [...flipLog, newCoin]);
     setFlipCount((flipCount) => {
