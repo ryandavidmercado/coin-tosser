@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/coin-tosser/static/css/main.3b2e1807.chunk.css",
-    "main.js": "/coin-tosser/static/js/main.711e398d.chunk.js",
-    "main.js.map": "/coin-tosser/static/js/main.711e398d.chunk.js.map",
+    "main.css": "/coin-tosser/static/css/main.b6dd1784.chunk.css",
+    "main.js": "/coin-tosser/static/js/main.027ded99.chunk.js",
+    "main.js.map": "/coin-tosser/static/js/main.027ded99.chunk.js.map",
     "runtime-main.js": "/coin-tosser/static/js/runtime-main.306a7d9b.js",
     "runtime-main.js.map": "/coin-tosser/static/js/runtime-main.306a7d9b.js.map",
-    "static/js/2.854dd951.chunk.js": "/coin-tosser/static/js/2.854dd951.chunk.js",
-    "static/js/2.854dd951.chunk.js.map": "/coin-tosser/static/js/2.854dd951.chunk.js.map",
+    "static/js/2.6cdaffc4.chunk.js": "/coin-tosser/static/js/2.6cdaffc4.chunk.js",
+    "static/js/2.6cdaffc4.chunk.js.map": "/coin-tosser/static/js/2.6cdaffc4.chunk.js.map",
     "index.html": "/coin-tosser/index.html",
-    "static/css/main.3b2e1807.chunk.css.map": "/coin-tosser/static/css/main.3b2e1807.chunk.css.map",
-    "static/js/2.854dd951.chunk.js.LICENSE.txt": "/coin-tosser/static/js/2.854dd951.chunk.js.LICENSE.txt",
+    "static/css/main.b6dd1784.chunk.css.map": "/coin-tosser/static/css/main.b6dd1784.chunk.css.map",
+    "static/js/2.6cdaffc4.chunk.js.LICENSE.txt": "/coin-tosser/static/js/2.6cdaffc4.chunk.js.LICENSE.txt",
     "static/media/heads.69040e03.png": "/coin-tosser/static/media/heads.69040e03.png",
     "static/media/tails.34707fcc.png": "/coin-tosser/static/media/tails.34707fcc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.306a7d9b.js",
-    "static/js/2.854dd951.chunk.js",
-    "static/css/main.3b2e1807.chunk.css",
-    "static/js/main.711e398d.chunk.js"
+    "static/js/2.6cdaffc4.chunk.js",
+    "static/css/main.b6dd1784.chunk.css",
+    "static/js/main.027ded99.chunk.js"
   ]
 }
