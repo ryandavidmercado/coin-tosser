@@ -4,6 +4,7 @@ import Button from "react-bootstrap/Button";
 
 import heads from "./img/heads.png";
 import tails from "./img/tails.png";
+import "./CoinFlipperCard.css";
 
 import { useState } from "react";
 
@@ -16,7 +17,7 @@ function CoinFlipperDisplay({ coin }) {
         src={coin === "H" ? heads : tails}
         className="w-75"
       />
-      <Card.Title className="mt-1 text-center">
+      <Card.Title className="mt-2 unembolden" key={+new Date()}>
         {coin === "H" ? "Heads!" : "Tails!"}
       </Card.Title>
     </Card.Body>

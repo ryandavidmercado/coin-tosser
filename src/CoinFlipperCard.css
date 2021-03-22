@@ -1,0 +1,10 @@
+@keyframes unembolden {
+  to {
+    font-weight: normal;
+  }
+}
+
+.unembolden {
+  font-weight: bold;
+  animation: unembolden 0.55s forwards;
+}
